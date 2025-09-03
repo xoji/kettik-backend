@@ -1,0 +1,12 @@
+.idea
+.vs_code
+.vscode
+node_modules
+node_modules/*
+logs
+assets/*/*
+!assets/*/.gitkeep
+/src/generated/prisma
+dist
+.env
+/public
