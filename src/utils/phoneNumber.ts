@@ -64,7 +64,6 @@ function maskPhoneNumber(
       : "";
 
     // Создаем маску на основе формата примера
-    let maskedNumber = nationalNumber;
     let formattedResult = "";
     let digitIndex = 0;
     let lastDigitPosition = -1;
